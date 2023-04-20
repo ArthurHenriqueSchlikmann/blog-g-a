@@ -1,2 +1,2 @@
 # blog-g-a
- um blog
+ um blog da Laika,luna e Lulu
