@@ -9,3 +9,16 @@ p {
     text-align: justify;
     text-indent: 50px;
 }
+
+/*formatando a imagem*/
+
+figure.capa {
+position: relative;
+border: 8px solid white;
+box-shadow: 1px 1px 4px black;
+}
+figure.capa img {
+width: 100%;
+beight: 100%;
+}
+figure.capa 
