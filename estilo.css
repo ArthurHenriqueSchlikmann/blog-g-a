@@ -27,4 +27,15 @@ nav#menu-1 li {
     background-color: #dddddddd;
     padding: 10px;
     margin: 2px;
+    transition: background-color 1s;
 }
+
+nav#menu-1 li:hover {
+    background-color: #606060;
+}
+
+nav#menu-1 h1 {
+    display: none;
+}
+
+nav#menu-1 a
