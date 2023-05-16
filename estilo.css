@@ -14,7 +14,7 @@ nav#menu-1 {
     display: block;
 }
 
-nav#menu ul {
+nav#menu-1 ul {
     list-style: none;
     text-transform: uppercase;
     position: absolute;
@@ -22,3 +22,9 @@ nav#menu ul {
     left: 300px;
 }
 
+nav#menu-1 li {
+    display: inline-block;
+    background-color: #dddddddd;
+    padding: 10px;
+    margin: 2px;
+}
