@@ -38,4 +38,12 @@ nav#menu-1 h1 {
     display: none;
 }
 
-nav#menu-1 a
+nav#menu-1 a {
+    color: #606060;
+    text-decoration: none;
+}
+
+nav#menu-1 a:hover {
+    color: #dddddddd;
+    text-decoration: underline;
+}
