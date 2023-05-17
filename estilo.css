@@ -9,3 +9,41 @@ p {
     text-align: justify;
     text-indent: 50px;
 }
+
+nav#menu-1 {
+    display: block;
+}
+
+nav#menu-1 ul {
+    list-style: none;
+    text-transform: uppercase;
+    position: absolute;
+    top: -20px;
+    left: 300px;
+}
+
+nav#menu-1 li {
+    display: inline-block;
+    background-color: #dddddddd;
+    padding: 10px;
+    margin: 2px;
+    transition: background-color 1s;
+}
+
+nav#menu-1 li:hover {
+    background-color: #606060;
+}
+
+nav#menu-1 h1 {
+    display: none;
+}
+
+nav#menu-1 a {
+    color: #606060;
+    text-decoration: none;
+}
+
+nav#menu-1 a:hover {
+    color: #dddddddd;
+    text-decoration: underline;
+}
